@@ -1,0 +1,20 @@
+{
+    "b7293bea268ca7c305f6f777681a03f5f05296bccb7ec6b9351c1df250c71351": {
+        "client_id": "dandy_nemchinovka_yandex_eda_2025",
+        "scope": "all",
+        "created_at": 1764329438,
+        "expires_at": 1764333038
+    },
+    "809382cb9f5259e84604bd1cc12a06ebdd7a419231a310e024f69b9623146730": {
+        "client_id": "dandy_nemchinovka_yandex_eda_2025",
+        "scope": "read write",
+        "created_at": 1764337763,
+        "expires_at": 1764341363
+    },
+    "bb15b3ff1e4d1d1f680e91653532708137989c76222be256687a8817806178e6": {
+        "client_id": "dandy_nemchinovka_yandex_eda_2025",
+        "scope": "read write",
+        "created_at": 1764337870,
+        "expires_at": 1764341470
+    }
+}
